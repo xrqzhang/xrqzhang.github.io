@@ -1,8 +1,8 @@
 # Review Notes, Topic: Circuit Design - Phase Locked Loop
 
-- **OneNote Link (full notes, access required):** https://1drv.ms/o/c/9A07F75291A33524/AiQ1o5FS9wcggJq2KQAAAAA?e=HXIiem
-- **Notion Link (copy ongoing):** https://www.notion.so/2a032520ec8480cdaa9becb7a6d46912?v=2a032520ec84807c9c16000cdde687db&source=copy_link
-- **Github Link (access required):** https://github.com/xrqzhang/Paper-Review-and-Notes
+- **OneNote (full notes, access required):** [Link_onenote](https://1drv.ms/o/c/9A07F75291A33524/AiQ1o5FS9wcggJq2KQAAAAA?e=HXIiem)
+- **Notion (copy ongoing):** [Link_notion](https://www.notion.so/2a032520ec8480cdaa9becb7a6d46912?v=2a032520ec84807c9c16000cdde687db&source=copy_link)
+- **Github (access required):** [Link_github](https://github.com/xrqzhang/Paper-Review-and-Notes)
 
 <details>
 <summary><b>👉 Disclaimer / 免责声明 </b></summary>
