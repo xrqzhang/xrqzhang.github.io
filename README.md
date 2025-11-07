@@ -4,9 +4,9 @@
   
 <summary><b>👉 Disclaimer / 免责声明 </b></summary>
 
-- **EN:** These notes are for my **personal reference only**. They are not intended to serve as an academically rigorous or industry-standard resource. The purpose of these notes is to help me quickly build up a **systematic understanding of circuit design**. To achieve that, I sometimes rely on simplified methods and shortcuts that may only be fully clear to me. Some derivations may not be strictly correct from a fundamental theoretical perspective. However, from an engineering standpoint, they are “good enough” to provide a practical framework for decision-making in design work.  
+**EN:** These notes are for my **personal reference only**. They are not intended to serve as an academically rigorous or industry-standard resource. The purpose of these notes is to help me quickly build up a **systematic understanding of circuit design**. To achieve that, I sometimes rely on simplified methods and shortcuts that may only be fully clear to me. Some derivations may not be strictly correct from a fundamental theoretical perspective. However, from an engineering standpoint, they are “good enough” to provide a practical framework for decision-making in design work.  
 
-- **CN:** 本笔记仅供我**个人参考**使用，并不适合作为学术研究或行业设计的权威资料。本笔记的目的是帮助我快速建立**电路设计的系统性理解**。为此，我在部分内容中采用了简化的方法或个人化的表达方式，可能只有我自己能完全理解。部分推导在严格的理论层面上可能并不完全正确，但从工程角度来看已经“足够正确”，能够为设计决策提供实用的知识框架。  
+**CN:** 本笔记仅供我**个人参考**使用，并不适合作为学术研究或行业设计的权威资料。本笔记的目的是帮助我快速建立**电路设计的系统性理解**。为此，我在部分内容中采用了简化的方法或个人化的表达方式，可能只有我自己能完全理解。部分推导在严格的理论层面上可能并不完全正确，但从工程角度来看已经“足够正确”，能够为设计决策提供实用的知识框架。  
 
 </details>
 
