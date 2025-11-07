@@ -1,16 +1,4 @@
-# Review Notes, Topic: Circuit Design - Phase Locked Loop
-
-- **OneNote (full notes, access required):** [Link_onenote](https://1drv.ms/o/c/9A07F75291A33524/AiQ1o5FS9wcggJq2KQAAAAA?e=HXIiem)
-- **Notion (copy ongoing):** [Link_notion](https://www.notion.so/2a032520ec8480cdaa9becb7a6d46912?v=2a032520ec84807c9c16000cdde687db&source=copy_link)
-- **Github (access required):** [Link_github](https://github.com/xrqzhang/Paper-Review-and-Notes)
-
-<details>
-<summary><b>👉 Contents </b></summary>
-
-<img width="645" height="534" alt="image" src="https://github.com/user-attachments/assets/bae293f9-bb20-4e8f-94d9-75f9f823ea05" />
-<img width="1112" height="495" alt="image" src="https://github.com/user-attachments/assets/a240fbc2-09f3-482b-956c-638b6511b56a" />
-
-</details>
+# Circuit Design Review Notes
 
 <details>
 <summary><b>👉 Disclaimer / 免责声明 </b></summary>
@@ -25,7 +13,29 @@
 
 </details>
 
+- **OneNote (full notes, access required):** [Link_onenote](https://1drv.ms/o/c/9A07F75291A33524/AiQ1o5FS9wcggJq2KQAAAAA?e=HXIiem)
+- **Notion (copy ongoing):** [Link_notion](https://www.notion.so/2a032520ec8480cdaa9becb7a6d46912?v=2a032520ec84807c9c16000cdde687db&source=copy_link)
+- **Github (access required):** [Link_github](https://github.com/xrqzhang/Paper-Review-and-Notes)
 
+## Topic: Signals and Systems
+
+<details>
+<summary><b>👉 Contents </b></summary>
+
+<img width="1112" height="495" alt="image" src="https://github.com/user-attachments/assets/a240fbc2-09f3-482b-956c-638b6511b56a" />
+
+</details>
+
+## Topic: Circuit Design - Phase Locked Loop
+
+<details>
+<summary><b>👉 Contents </b></summary>
+
+<img width="645" height="534" alt="image" src="https://github.com/user-attachments/assets/bae293f9-bb20-4e8f-94d9-75f9f823ea05" />
+
+</details>
+
+<br><br>
 # License
 
 - **Code:** Licensed under the [MIT License](./LICENSE).  
