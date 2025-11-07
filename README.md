@@ -5,6 +5,14 @@
 - **Github (access required):** [Link_github](https://github.com/xrqzhang/Paper-Review-and-Notes)
 
 <details>
+<summary><b>👉 Contents </b></summary>
+
+<img width="645" height="534" alt="image" src="https://github.com/user-attachments/assets/bae293f9-bb20-4e8f-94d9-75f9f823ea05" />
+<img width="1112" height="495" alt="image" src="https://github.com/user-attachments/assets/a240fbc2-09f3-482b-956c-638b6511b56a" />
+
+</details>
+
+<details>
 <summary><b>👉 Disclaimer / 免责声明 </b></summary>
 
 - **EN:** These notes are for my **personal reference only**. They are not intended to serve as an academically rigorous or industry-standard resource.  
