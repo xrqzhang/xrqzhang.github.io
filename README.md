@@ -14,7 +14,7 @@
 </details>
 
 - **OneNote (full notes, access required):** [Link_onenote](https://1drv.ms/o/c/9A07F75291A33524/AiQ1o5FS9wcggJq2KQAAAAA?e=HXIiem)
-- **Notion (just start, copy ongoing):** [Link_notion](https://www.notion.so/2a032520ec8480cdaa9becb7a6d46912?v=2a032520ec84807c9c16000cdde687db&source=copy_link)
+- **Notion (just started, copy ongoing):** [Link_notion](https://www.notion.so/2a032520ec8480cdaa9becb7a6d46912?v=2a032520ec84807c9c16000cdde687db&source=copy_link)
 - **Github (access required):** [Link_github](https://github.com/xrqzhang/Paper-Review-and-Notes)
 
 ## Topic: Signals and Systems
