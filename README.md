@@ -10,9 +10,9 @@
 </details>
 <br>
 
-- **OneNote (full notes, access required):** [Link_onenote](https://1drv.ms/o/c/9A07F75291A33524/AiQ1o5FS9wcggJq2KQAAAAA?e=HXIiem)
+- **OneNote (all):** [Link_onenote](https://1drv.ms/o/c/9A07F75291A33524/AiQ1o5FS9wcggJq2KQAAAAA?e=HXIiem)
 - **Notion (just started, copy ongoing):** [Link_notion](https://www.notion.so/Professional-Review-Notes-2a632520ec8480eea94dd9f815811728?source=copy_link)
-- **Github (access required):** [Link_github](https://github.com/xrqzhang/Paper-Review-and-Notes)
+- **Github:** [Link_github](https://github.com/xrqzhang/Paper-Review-and-Notes)
 
 ## Topic: Signals and Systems
 
