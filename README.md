@@ -14,6 +14,7 @@
 - **Notion (just started, copy ongoing):** [Link_notion](https://www.notion.so/Professional-Review-Notes-2a632520ec8480eea94dd9f815811728?source=copy_link)
 - **Github:** [Link_github](https://github.com/xrqzhang/Professional_Review_Notes)
 
+---
 ## Topic: Signals and Systems
 
 <details>
@@ -23,6 +24,7 @@
 
 </details>
 
+---
 ## Topic: Circuit Design - Phase Locked Loop
 
 <details>
@@ -33,6 +35,8 @@
 </details>
 
 <br><br>
+
+---
 # License
 
 - **Code:** Licensed under the [MIT License](./LICENSE).  
