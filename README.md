@@ -1,24 +1,33 @@
-# Professional Review Notes
+# Circuit Design Notes
 
-<details markdown="1">
-<summary><b>👉 Why this note exists </b></summary>
-
-**EN:** These notes are for my **personal reference only**. They are not intended to serve as an academically rigorous or industry-standard resource. The purpose of these notes is to help me quickly build up a **systematic understanding of circuit design**. To achieve that, I sometimes rely on simplified methods and shortcuts that may only be fully clear to me. Some derivations may not be strictly correct from a fundamental theoretical perspective. However, from an engineering standpoint, they are “good enough” to provide a practical framework for decision-making in design work.  
-
-**CN:** 本笔记仅供我**个人参考**使用，并不适合作为学术研究或行业设计的权威资料。本笔记的目的是帮助我快速建立**电路设计的系统性理解**。为此，我在部分内容中采用了简化的方法或个人化的表达方式，可能只有我自己能完全理解。部分推导在严格的理论层面上可能并不完全正确，但从工程角度来看已经“足够正确”，能够为设计决策提供实用的知识框架。  
-
-</details>
-<br>
+## **Links:**
 
 - **OneNote:** [Link_onenote](https://1drv.ms/o/c/9A07F75291A33524/AiQ1o5FS9wcggJq2KQAAAAA?e=HXIiem)
-- **Github:** [Link_github](https://github.com/xrqzhang/Professional_Review_Notes)
 
 <br><br>
 
----
-# License
+## Why this note exists
+<details markdown="1">
+<summary><b>👉 </b></summary>
 
-- **Code:** Licensed under the [MIT License](./LICENSE).  
-- **Documentation and Notes:** Licensed under the [CC BY-SA 4.0 License](./LICENSE-docs).  
-- **External Notes (e.g., OneNote, Notion):** Unless otherwise stated, all linked materials
-  follow the same [CC BY-SA 4.0 License](https://creativecommons.org/licenses/by-sa/4.0/).
+
+**EN:** 
+
+These notes exist to help me build a systematic understanding of circuit design—quickly and practically.
+
+They are written for my future self, not as a textbook or an industry standard. I sometimes take shortcuts, simplify derivations, or explain things in ways that may only make perfect sense to me.
+
+Some details may not be fundamentally rigorous. But if they are correct enough to guide good engineering decisions, they have done their job.
+
+In short: less proof, more intuition; less perfection, more usefulness.
+
+**CN:** 
+
+这些笔记主要写给未来的自己，目的是尽快建立对电路设计的系统性理解，而不是写成教材或行业标准。
+
+因此里面会有捷径、简化推导，以及一些可能只有我自己看得最顺眼的表达。部分内容从严格理论上看未必无懈可击，但只要它足够正确，能够指导工程判断和设计决策，任务就完成了。
+
+简单说就是：少一点证明，多一点直觉；少一点完美，多一点好用。
+
+</details>
+<br>
