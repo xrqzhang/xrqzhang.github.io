@@ -11,7 +11,6 @@
 <br>
 
 - **OneNote:** [Link_onenote](https://1drv.ms/o/c/9A07F75291A33524/AiQ1o5FS9wcggJq2KQAAAAA?e=HXIiem)
-- **Notion:** [Link_notion](https://www.notion.so/Professional-Review-Notes-2a632520ec8480eea94dd9f815811728?source=copy_link)
 - **Github:** [Link_github](https://github.com/xrqzhang/Professional_Review_Notes)
 
 <br><br>
