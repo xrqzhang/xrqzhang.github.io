@@ -1,0 +1,64 @@
+---
+---
+
+@import "jekyll-theme-minimal";
+
+/* ---------- Page background ---------- */
+
+body {
+  background-color: #f5faf5;
+
+  background-image:
+    repeating-linear-gradient(
+      0deg,
+      rgba(80, 130, 90, 0.035),
+      rgba(80, 130, 90, 0.035) 1px,
+      transparent 1px,
+      transparent 24px
+    );
+
+  padding: 50px 20px;
+}
+
+
+/* ---------- Remove Minimal theme sidebar ---------- */
+
+header {
+  display: none;
+}
+
+footer {
+  display: none;
+}
+
+
+/* ---------- Center main content ---------- */
+
+.wrapper {
+  width: 100%;
+  max-width: 760px;
+  margin: 0 auto;
+}
+
+section {
+  width: 100%;
+  float: none;
+  padding-bottom: 50px;
+}
+
+
+/* ---------- Slightly cleaner typography ---------- */
+
+body {
+  color: #555;
+  font-size: 15px;
+  line-height: 1.65;
+}
+
+h1, h2, h3 {
+  color: #26382a;
+}
+
+a {
+  color: #477a52;
+}
