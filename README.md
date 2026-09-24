@@ -1,7 +1,7 @@
 # Professional Review Notes
 
 <details markdown="1">
-<summary><b>👉 Disclaimer / 免责声明 </b></summary>
+<summary><b>👉 Why this note exists </b></summary>
 
 **EN:** These notes are for my **personal reference only**. They are not intended to serve as an academically rigorous or industry-standard resource. The purpose of these notes is to help me quickly build up a **systematic understanding of circuit design**. To achieve that, I sometimes rely on simplified methods and shortcuts that may only be fully clear to me. Some derivations may not be strictly correct from a fundamental theoretical perspective. However, from an engineering standpoint, they are “good enough” to provide a practical framework for decision-making in design work.  
 
@@ -12,28 +12,6 @@
 
 - **OneNote:** [Link_onenote](https://1drv.ms/o/c/9A07F75291A33524/AiQ1o5FS9wcggJq2KQAAAAA?e=HXIiem)
 - **Github:** [Link_github](https://github.com/xrqzhang/Professional_Review_Notes)
-
-<br><br>
-
-## Topic: Signals and Systems
-
-<details>
-<summary><b>👉 Contents </b></summary>
-
-<img width="1112" height="495" alt="image" src="https://github.com/user-attachments/assets/a240fbc2-09f3-482b-956c-638b6511b56a" />
-
-</details>
-
-<br><br>
-
-## Topic: Circuit Design - Phase Locked Loop
-
-<details>
-<summary><b>👉 Contents </b></summary>
-
-<img width="645" height="534" alt="image" src="https://github.com/user-attachments/assets/bae293f9-bb20-4e8f-94d9-75f9f823ea05" />
-
-</details>
 
 <br><br>
 
