@@ -2,7 +2,7 @@
 
 ## **Link(s):**
 
-- **OneNote:** [Link_onenote](https://1drv.ms/o/c/9A07F75291A33524/AiQ1o5FS9wcggJq2KQAAAAA?e=HXIiem)
+[Note Link](https://1drv.ms/o/c/9A07F75291A33524/AiQ1o5FS9wcggJq2KQAAAAA?e=HXIiem)
 
 <br><br>
 
