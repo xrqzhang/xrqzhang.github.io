@@ -8,7 +8,7 @@
 
 ## Why this note exists
 <details markdown="1">
-<summary><b>👉 </b></summary>
+<summary><b>👉 A small disclaimer</b></summary>
 
 
 **EN:** 
