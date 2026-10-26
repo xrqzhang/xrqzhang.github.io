@@ -6,7 +6,7 @@
 
 ## Link
 
-[OneNote Link](https://1drv.ms/o/c/9A07F75291A33524/AiQ1o5FS9wcggJq2KQAAAAA?e=5C8Y7W)
+[OneNote Link](https://1drv.ms/o/c/9A07F75291A33524/AiQ1o5FS9wcggJq2KQAAAAA?e=iL9W5f)
 
 Please send me message if you see issues with the notes.
 
