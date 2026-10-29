@@ -4,9 +4,8 @@
 <br><br>
 
 
-## Link
+## [Link](https://professionalnotes.goldzhang.com/Professional)
 
-[Link](https://professionalnotes.goldzhang.com/Professional)
 
 Please send me message if you see issues with the notes.
 
