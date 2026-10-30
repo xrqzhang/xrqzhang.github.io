@@ -4,7 +4,7 @@
 <br><br>
 
 
-## [Link](https://professionalnotes.goldzhang.com/one2html/Professional)
+## [Link](https://professionalnotes.goldzhang.com/public/Professional)
 
 
 Please send me message if you see issues with the notes.
